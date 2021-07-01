@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisisaayush
+- 👋 Hi, I’m Aayush.
 - 👀 I’m interested in Programming and ML (Java and Python), playing chess, and reading books.
 
 

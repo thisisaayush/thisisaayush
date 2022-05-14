@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aayush.
-- 👀 I’m interested in softeware development and web application, playing chess, reading books. 
-
+- 👋 Hi, I’m Aayush. 
+- My career goal is to be a Software Engineer.
+- My hobbies are taking online courses, coding, reading books, and playing chess.
 
 
 <!---

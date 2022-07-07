@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aayush. 
-- My career goal is to be a Software Engineer.
+- I am a Software Developer.
 - My hobbies are taking online courses, coding, reading books, and playing chess.
 
 
